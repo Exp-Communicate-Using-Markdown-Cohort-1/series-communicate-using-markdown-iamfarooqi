@@ -10,11 +10,11 @@ function myFunction(p1, p2) {
   return p1 * p2;
 }
 ```
-##### Here is an example of how we can use code
 
-- [X] Clone the repo
-- [X] Check the documentation
-- [X] Update the code
-- [ ] Push the code
+##### Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ###### Done
